@@ -1,0 +1,27 @@
+div{
+    border: 2px solid #1cc5dc;
+    width: 250px;
+    padding: 30px;
+    background-color: #00adb5;
+    margin:200px;
+    border-radius: 30px;
+}
+body{
+    margin:0px;
+    text-align: center;
+    background-color: cadetblue;
+}
+p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+button{
+    margin-top: 20px;
+    border-radius: 10px;
+    font-family: 'Great Vibes', cursive;
+    background-color: #a0937d;
+}
+input{
+    border-radius: 5px;
+    border: 2px solid rgba(6, 27, 26, 0.527);
+}
